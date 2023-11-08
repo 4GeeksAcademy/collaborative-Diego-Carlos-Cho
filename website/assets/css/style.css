@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+
+.card-text {
+    font-family: sans-serif;
+    font-size: large;
+
+}
